@@ -1,0 +1,10 @@
+D:\workspace\CSharp\MockEverNote\MockEverNote\bin\Debug\MockEverNote.exe.config
+D:\workspace\CSharp\MockEverNote\MockEverNote\bin\Debug\MockEverNote.exe
+D:\workspace\CSharp\MockEverNote\MockEverNote\bin\Debug\MockEverNote.pdb
+D:\workspace\CSharp\MockEverNote\MockEverNote\bin\Debug\MockEverNote.xml
+D:\workspace\CSharp\MockEverNote\MockEverNote\obj\Debug\MockEverNote.Form1.resources
+D:\workspace\CSharp\MockEverNote\MockEverNote\obj\Debug\MockEverNote.Resources.resources
+D:\workspace\CSharp\MockEverNote\MockEverNote\obj\Debug\MockEverNote.vbproj.GenerateResource.Cache
+D:\workspace\CSharp\MockEverNote\MockEverNote\obj\Debug\MockEverNote.exe
+D:\workspace\CSharp\MockEverNote\MockEverNote\obj\Debug\MockEverNote.xml
+D:\workspace\CSharp\MockEverNote\MockEverNote\obj\Debug\MockEverNote.pdb
